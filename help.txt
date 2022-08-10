@@ -1,4 +1,4 @@
-Install MySQL version 8.0.21   (ie. 8.0.x)
+Install MySQL version 8.0.21   (ie. 8.0.x)s
 
 database username: root
 database password: admin
